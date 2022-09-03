@@ -1,6 +1,6 @@
 # SP5Klipper
 current config for my Sapphire SP5 1.1 tied Z.   below are the parts that were used for this firmware if you use this make sure you change the MCU setting for your board
-under  the below setting in the printer.cfg
+under  the below setting in the printer.cfg  also make sure you copy all files to your klipper install
 [mcu]
 serial: /dev/serial/by-id/
                                       
@@ -9,6 +9,12 @@ https://cults3d.com/en/3d-model/tool/io-mount-a-premium-toolhead-design-for-twot
 
 Hotend - Haldis Red lizard configured in dragon 4 hole mount
 https://www.amazon.com/Haldis-Assembled-Extrusion-Extruder-Printer/dp/B09HGTT9DW/ref=sr_1_3?crid=2EPZ5IXCRG7CT&keywords=haldi+3d+red+lizard+k1+v6+hotend&qid=1662223872&s=industrial&sprefix=haldis+3d+red+lizard+k1+v6+hotend%2Cindustrial%2C126&sr=1-3
+
+Heater - [5-Pack, 4.92ft] 24V 60W Heater Cartridge
+https://www.amazon.com/gp/product/B09SXZ5MYT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+Thermistor - FYSETC 3Pcs Upgrade HT-NTC100K 3950 XH2.54 2 Pin Cartridge Thermistor Sensor
+https://www.amazon.com/gp/product/B07D9LSKWK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 Extruder - Bluerol Sherpa Mini 8GT LDO stepper
 https://www.aliexpress.com/item/3256802085118490.html?gatewayAdapt=4itemAdapt
